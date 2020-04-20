@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+.DS_Store
+dist/
+feishupy.egg-info/
+.python-version
+build/
