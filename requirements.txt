@@ -5,4 +5,4 @@ parse==1.15.0
 requests==2.23.0
 shove==0.6.6
 stuf==0.9.16
-urllib3==1.25.8
+urllib3==1.26.5
